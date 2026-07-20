@@ -1,0 +1,6 @@
+# Archivos compilados
+/target
+
+# Configuración de editores
+.vscode/
+.idea/
